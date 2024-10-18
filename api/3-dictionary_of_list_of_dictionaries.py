@@ -1,4 +1,6 @@
-es https://jsonplaceholder.typicode.com to return information about all
+#!/usr/bin/python3
+"""
+Uses https://jsonplaceholder.typicode.com to return information about all
 employee's todo list progress
 """
 
